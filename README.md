@@ -1,5 +1,5 @@
-# passive-ai
-mobile first application for cryptocurrencies management, trading and passive income generation on ethereum
+# CryptoManage
+Cryptocurrency managing and trading in a secure way.
 
 Initial setup:
 
